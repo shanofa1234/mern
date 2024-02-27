@@ -1,0 +1,22 @@
+body{
+    font-family:  monospace;
+    color: blueviolet;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+button
+{
+    background-color: rgb(57, 103, 62);
+    color: rgb(0, 13, 255);
+    padding: 4px 12px;
+    text-align: center;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    background-color: rgb(0, 13, 255);
+    color:white;
+}
